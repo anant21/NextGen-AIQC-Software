@@ -2,7 +2,7 @@ from os import system, environ
 system("clear")
 
 def stopMessage():
-    print("\n[x] Keyboard Interruption: Forcely STOPPED !!")
+    print("\n[*!*] Keyboard Interruption: Forcely STOPPED !!")
     print("\n\n   ########################################")
     print("   ****************************************")      
     print('\n              TOOL STOPPED!!')

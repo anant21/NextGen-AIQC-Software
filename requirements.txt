@@ -19,3 +19,11 @@ tqdm==4.61.0
 urllib3==1.26.5
 wincertstore==0.2
 geopy
+torch
+qiskit
+cv2
+numpy
+matplotlib
+torchvision
+datetime
+pycrypto
